@@ -4,4 +4,3 @@ numpy
 scikit-learn
 joblib
 
-print("✅ requirements.txt created!")
